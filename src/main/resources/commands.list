@@ -1,3 +1,4 @@
 ru.spbau.avesloguzova.shell.commands.CatCommand
 ru.spbau.avesloguzova.shell.commands.WcCommand
 ru.spbau.avesloguzova.shell.commands.PwdCommand
+ru.spbau.avesloguzova.shell.commands.GrepCommand
